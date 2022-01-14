@@ -1,6 +1,9 @@
 _repo: First-notions-of-logic-preparatory-to-the-study-of-geometry_67017
 _version: 0.1.0
 alternative_title: 1st notions of logic (preparatory to the study of geometry)
+covers:
+- cover_type: archival
+  image_path: 67017-h/images/cover.jpg
 creator:
   author:
     agent_name: De Morgan, Augustus
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25678
     wikipedia: https://en.wikipedia.org/wiki/Augustus_De_Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67017#First-notions-of-logic-preparatory-to-the-study-of-geometry
 gutenberg_issued: '2021-12-26'
 identifiers:
   gutenberg: '67017'
